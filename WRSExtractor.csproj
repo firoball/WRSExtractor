@@ -42,14 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Acknex\Assets\Scripts\Acknex\BigEndianBinaryReader.cs" />
-    <Compile Include="Acknex\Assets\Scripts\GameRes.Compression\CommonStreams.cs" />
-    <Compile Include="Acknex\Assets\Scripts\GameRes.Compression\LzssStream.cs" />
-    <Compile Include="Acknex\Assets\Scripts\GameRes.Compression\PackedStream.cs" />
-    <Compile Include="Acknex\Assets\Scripts\Acknex\PathUtils.cs" />
+    <Compile Include="util\BigEndianBinaryReader.cs" />
+    <Compile Include="GameRes.Compression\CommonStreams.cs" />
+    <Compile Include="GameRes.Compression\LzssStream.cs" />
+    <Compile Include="GameRes.Compression\PackedStream.cs" />
+    <Compile Include="util\PathUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Acknex\Assets\Scripts\Acknex\WRSExtractor.cs" />
+    <Compile Include="util\WRSExtractor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
