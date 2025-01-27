@@ -18,5 +18,6 @@ Open _WRSExtractor.sln_ in Visual Studio and build it.
 
 
 ## Credits
-GameRes.Compression: morkt
-util: rickomax
+
+- GameRes.Compression: morkt
+- util: rickomax
